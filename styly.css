@@ -1,0 +1,81 @@
+.navigace li{
+	display:inline;
+	text-align: center;
+	padding:20px;
+	margin:20px;
+}
+
+.navigace li a{
+	text-decoration: none;
+	color:black;
+}
+
+.navigace{
+	background-color: green;
+	text-align: center;
+	margin:10px auto;
+	padding:20px;
+	font-variant: small-caps;
+	font-size: 25px;
+	border-radius:20px;
+	width: 70%;
+
+}
+
+.hlavni-text{
+	width: 70%;
+	float: left;
+	margin-left: 0%;
+}
+
+.hlavni-text h1{
+	font-variant: small-caps;
+}
+
+.strana{
+	width: 30%;
+	float:left;
+
+}
+
+.stred{
+	padding:0px;
+	margin:10px auto;
+	width:70%;
+	
+}
+
+.strana p {
+	
+	padding: 20px 5px 20px 5px;
+	border-radius: 8px 30px 8px 30px;
+	background-color: green;
+	text-align: center;
+	width:65%;
+
+}
+.strana img {
+	border-radius: 30px 8px 30px 8px;
+	width: 70%;
+	height: auto;
+
+	
+}
+.strana{
+	text-align: left;
+	font-style: italic;
+	color: #C1FFC1;
+	
+
+}
+
+.fotogalerie img {
+	
+	height: 100%;
+	width: auto;
+
+}
+
+.fotogalerie td{
+	width: 100px;
+}
